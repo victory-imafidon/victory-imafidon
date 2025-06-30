@@ -8,7 +8,10 @@ I'm a passionate full stack developer who loves solving real-world problems thro
 - 🔁 **[QuickEx](https://github.com/victory-imafidon/Quickex)**  
   Fintech platform for airtime, data, crypto, bill payments & virtual cards. Built with Laravel, JS, and MySQL.
 
-- 📚 **[QuickStudy](https://github.com/yourusername/quickstudy)**  
+- 📚 **[QuickStudy](https://github.com/victory-imafidon/quickstudy)**  
+  AI-powered study assistant that helps students revise smarter. Features include PDF generation, context search, and exam drills.
+
+  - 📚 **[Arduino Digital Weight Scale](https://github.com/victory-imafidon/arduino-digital-scale)**  
   AI-powered study assistant that helps students revise smarter. Features include PDF generation, context search, and exam drills.
 
 - 🧠 **[PHP Genetic Algorithm](https://github.com/victory-imafidon/PHP-Genetic-Algorithm-Application)**  
