@@ -5,7 +5,7 @@
 I'm a passionate full stack developer who loves solving real-world problems through tech. I’ve built and shipped fintech and education platforms that impact thousands of users daily.
 
 ### ⚡ Projects I'm proud of:
-- 🔁 **[QuickEx](https://github.com/yourusername/quickex)**  
+- 🔁 **[QuickEx](https://github.com/victory-imafidon/Quickex)**  
   Fintech platform for airtime, data, crypto, bill payments & virtual cards. Built with Laravel, JS, and MySQL.
 
 - 📚 **[QuickStudy](https://github.com/yourusername/quickstudy)**  
